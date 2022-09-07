@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded" , () => {
+document.addEventListener("DOMContentLoaded" ,() => {
    let name1 =  prompt("Hello,what's your name?");
    alert(`Welcome to our site ${name1}`);
 })
